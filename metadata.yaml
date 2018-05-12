@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25148
     wikipedia: http://en.wikipedia.org/wiki/Carl_Charlier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22157#Lectures-on-Stellar-Statistics
 gutenberg_bookshelf: Astronomy
 gutenberg_issued: '2007-07-27'
 gutenberg_type: Text
